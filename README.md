@@ -1,8 +1,5 @@
 ### Hey there, I'm Guillermo! 👋
 
-<br />
-<br />
-
 I'm a self-taught Software Developer with a background in Psychology 🧠 and IT 💻 from Salta, Argentina 🧉. I'm also a Minimal House music producer 🎧!  
 
 <a href="#">

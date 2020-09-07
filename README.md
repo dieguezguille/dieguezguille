@@ -1,2 +1,1 @@
-[![dieguezguille's github stats](https://github-readme-stats.vercel.app/api?username=dieguezguille)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezguille)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezguille&layout=compact?hide=ShaderLab, HLSL)](https://github.com/anuraghazra/github-readme-stats)

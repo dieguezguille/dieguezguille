@@ -10,4 +10,5 @@ I'm a self-taught Software Developer with a background in Psychology 🧠 and IT
 </a>
 
 <br />
+
 I'm also a Minimal House music producer 🎧! You can check my releases [here](https://soundcloud.com/awsiproject)

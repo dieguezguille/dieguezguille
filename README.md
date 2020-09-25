@@ -2,7 +2,7 @@
 
 I'm a self-taught Software Developer with a background in Psychology 🧠 and IT 💻 from Salta, Argentina 🧉
 
-I'm also make Minimal House music 🎧 You can check out my releases [here](https://soundcloud.com/awsiproject)
+I also make Minimal House music 🎧 You can check out my releases [here](https://soundcloud.com/awsiproject)
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dieguezguille&show_icons=true&hide=prs,contribs&count_private=true&theme=onedark" />
